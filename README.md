@@ -27,6 +27,7 @@ The dashboard analyzes a Netflix dataset, connecting information from IMDB and T
 | `README.md`                          | This documentation file           |
 
 ---
+![Netflix](Netflix_Visualization.png)
 
 ## 🧮 DAX Measures Used
 
